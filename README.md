@@ -1,3 +1,5 @@
+> **_NOTE:_** This provider is a fork of missing [thycotic/terraform-provider-tss](https://github.com/thycotic/terraform-provider-tss)
+
 # Thycotic Secret Server - Terraform Provider
 
 The [Thycotic](https://thycotic.com/) [Secret Server](https://thycotic.com/products/secret-server/) [Terraform](https://www.terraform.io/) Provider allows you to access and reference Secrets in your vault for use in Terraform configurations.
@@ -6,7 +8,7 @@ The [Thycotic](https://thycotic.com/) [Secret Server](https://thycotic.com/produ
 
 > Preferred way to install
 
-The latest release can be [downloaded from the terraform registry](https://registry.terraform.io/providers/thycotic/tss/latest). The documentation can be found [here](https://registry.terraform.io/providers/thycotic/tss/latest/docs).
+The latest release can be [downloaded from the terraform registry](https://registry.terraform.io/providers/aperigault/tss/latest). The documentation can be found [here](https://registry.terraform.io/providers/aperigault/tss/latest/docs).
 
 If wish to install straight from source, follow the steps below.
 

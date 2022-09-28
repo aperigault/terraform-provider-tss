@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/hashicorp/terraform/helper/schema"
-	"github.com/thycotic/tss-sdk-go/server"
+	"github.com/DelineaXPM/tss-sdk-go/v2/server"
 )
 
 func dataSourceSecretRead(d *schema.ResourceData, meta interface{}) error {
